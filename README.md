@@ -1,7 +1,9 @@
 # field-skills
 
-This repository holds the source of the Field aspect's skills.
+This repository holds the Field aspect's authored skill sources in
+`skills/`. Trial and compensation sources use the `trial-` and
+`compensation-` kind prefixes.
 
-The Field aspect is in charge of this repository. A flow of another aspect that wants a change here messages the Field aspect, which investigates the suggestion and weighs its merits.
-
-The layout inside is not yet decided. Nothing is to be added until it is.
+The Field aspect owns this repository. Another aspect's flow that wants a
+change contacts Field, which investigates it and brings a change to the
+living.
