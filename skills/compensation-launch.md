@@ -29,3 +29,5 @@ within an aspect, one layer up or any layer down. A Secondary reaches
 its Primary of another aspect only through that aspect's Secondary,
 its Primary's secretary. A lower layer that is unsure asks the layer
 above and admits what it does not know.
+
+A launched flow's startup task is never to reply READY. Its first response is a presentation of its context: subflows first reinforce that context, then the flow proposes how to make things better in its role, as named by the skills for its aspect, layer and topic. Psyche distils its context for vision, intent and spirit; Mind for knowledge, questions and implementation; Field for its own roles.
