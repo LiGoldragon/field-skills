@@ -20,4 +20,4 @@ it uses and their purpose, and shows the wrong and right forms.
 
 A book opens with the context its proposals rest on, conceptual and as visual as possible: how things are, what is wrong or out of line with vision, what is highlighted; the one operational fact it states is whether a thing is in production or in a development branch, and what that development is about. How the system runs today is knowledge, landed without the living's review; no version, path or command reaches a book.
 
-A diagram in a book's source is ASCII, laid out vertically and no wider than 52 characters so a phone shows it; the published book never shows the ASCII, but a figure drawn from it by a Sonnet or Haiku subflow, carrying the meaning of the surrounding text.
+A diagram in a book's source is ASCII, laid out vertically and no wider than 52 characters so a phone shows it; the published book never shows the ASCII, but a figure drawn from it by a Sonnet or Haiku subflow that keeps every box, label and arrow of the source and adds nothing the source does not say; its colour and layout may carry the surrounding meaning.
