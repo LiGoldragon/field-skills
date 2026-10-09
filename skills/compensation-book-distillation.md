@@ -17,3 +17,5 @@ field-skills/skills.
 
 Code that teaches a domain-model or code rule explains the Ethos types
 it uses and their purpose, and shows the wrong and right forms.
+
+How the system runs today is knowledge, landed without the living's review; a book shows how a thing works only conceptually, with no version, path, or command.
